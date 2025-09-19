@@ -1,0 +1,15 @@
+{
+  "name": "codenames-multiplayer",
+  "version": "1.0.0",
+  "description": "Codenames multiplayer game",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.4"
+  }
+}
